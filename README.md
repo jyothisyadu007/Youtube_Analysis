@@ -1,7 +1,7 @@
 # Youtube_Analysis
-import LIbraries
-check polarity of comments
-filter the comments according to polarity
-Using word cloud emphasize the key words
-using graph understanding the positive and negative comments
-Analysis of EMOji
+1. Import LIbraries
+2. Check polarity of comments
+3. Filter the comments according to polarity
+4. Using word cloud emphasize the key words
+5. Using graph understanding the positive and negative comments
+6. Analysis of EMOJI
